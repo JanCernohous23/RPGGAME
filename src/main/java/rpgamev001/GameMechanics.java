@@ -1,6 +1,11 @@
 
 package rpgamev001;
+
 public class GameMechanics {
+   
+    
+    
+    
     //savings & loading
     //newplayer
     //create random opponent
