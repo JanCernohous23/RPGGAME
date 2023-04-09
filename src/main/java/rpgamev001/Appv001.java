@@ -6,6 +6,7 @@ public static GameMechanics _gamemechanics;
     
     public static void main(String[] args) {
         GUI _gui = new GUI();
+        _gui.createWindow();
         _gui.createWelcomeMenu();
     }
 }
